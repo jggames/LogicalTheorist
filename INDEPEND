@@ -1,0 +1,4 @@
+"(~(pvp)vp)",1,0,0," Axiom"
+"(~qv(pvq))",2,0,0," Axiom"
+"(~(pvq)v(qvp))",3,0,0," Axiom"
+"(~(~qvr)v(~(pvq)v(pvr)))",4,0,0," Axiom"
